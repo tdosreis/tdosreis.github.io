@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.tdosreis.futebolquiz",
+    "sha256_cert_fingerprints": [
+      "79:51:D3:C9:E6:FD:53:55:03:DA:8D:70:8D:7A:38:75:35:A4:9C:26:B9:CD:44:00:64:93:D2:C6:AE:7E:4A:E2"
+    ]
+  }
+}]
